@@ -1,7 +1,6 @@
 ## Hi, I am Nurbek 👋
 
-
-# Just a curious data-driven mind
+### Just a curious data-driven mind
 
 Data Scientist and Software Developer with experience at Sparklab Indrive and Beeline. Currently pursuing Applied Computer Science and AI at La Sapienza.
 
