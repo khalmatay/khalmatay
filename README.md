@@ -16,6 +16,9 @@ Data Scientist and Software Developer with experience at Sparklab Indrive and Be
 Let’s connect and explore exciting possibilities together!  
 [Find me on LinkedIn](https://www.linkedin.com/in/khalmatay/)
 
+[![khalmatay's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=khalmatay)](https://github.com/KnlnKS/leetcode-stats)
+
+
   </div>
   
   <div style="flex: 1;">
