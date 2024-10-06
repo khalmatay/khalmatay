@@ -1,31 +1,30 @@
 ## Hi, I am Nurbek 👋
 
-### Just a curious data-driven mind
+Just a curious data-driven mind
 
 Data Scientist and Software Developer with experience at Sparklab Indrive and Beeline. Currently pursuing Applied Computer Science and AI at La Sapienza.
 
-<div style="display: flex;">
+<div style="display: flex; align-items: center;">
+
   <div style="flex: 1;">
+    
+  ⚙️ Daily tools: `.py`, `.ipynb`
+
+  🌍 Passionate about: **AI** and **Data Science**
+
+  🏆 Achievements: 3rd place winner at Almaty Ecology Challenge
+
+  Let’s connect and explore exciting possibilities together!  
+  [Find me on LinkedIn](https://www.linkedin.com/in/khalmatay/)
   
-⚙️ Daily tools: `.py`, `.ipynb`
-
-🌍 Passionate about: **AI** and **Data Science**
-
-🏆 Achievements: 3rd place winner at Almaty Ecology Challenge
-
-Let’s connect and explore exciting possibilities together!  
-[Find me on LinkedIn](https://www.linkedin.com/in/khalmatay/)
-
-[![khalmatay's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=khalmatay)](https://github.com/KnlnKS/leetcode-stats)
-
-
   </div>
   
-  <div style="flex: 1;">
+  <div style="flex: 1; text-align: right;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="right" src="https://github-readme-stats.vercel.app/api?username=khalmatay" alt="Khalmatay's GitHub stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=khalmatay" alt="khalmatay's GitHub stats"/>
     </a>
   </div>
+  
 </div>
 
 <!--
