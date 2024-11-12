@@ -2,7 +2,7 @@
 
 Just a curious data-driven mind
 
-Data Scientist and Software Developer with experience at Sparklab Indrive and Beeline. 
+Data Scientist and Software Developer with experience at Sparklab Indrive and Beeline. Sapienza Data Science Student.
 
 <div style="display: flex; align-items: center;">
 
