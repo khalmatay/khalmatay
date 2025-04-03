@@ -1,6 +1,6 @@
 ## Hi, I am Nurbek 👋
 
-Just a curious data-driven mind and problem solver
+Just a curious data-driven mind.
 
 Data Scientist and Software Developer with experience at Sparklab Indrive and Veon.
 
