@@ -1,6 +1,6 @@
 ## Hi, I am Nurbek 👋
 
-Just a curious data-driven mind and problem solver. Изменяю репозитория для проверки 
+Just a curious data-driven mind and problem solver.
 
 Data Scientist and Software Developer with experience at Sparklab Indrive and Veon.
 
